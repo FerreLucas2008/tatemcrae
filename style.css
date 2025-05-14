@@ -11,3 +11,17 @@ border-style: initial;
 border-width: px;
 background-color: cornflowerblue;
 }
+
+h3 {text-align: center;
+border-color: rgb(230, 134, 134);
+border-style: none;
+border-width: px;
+background-color: darksalmon;
+}
+
+h4 {text-align: center;
+border-color: indigo;
+border-style: none;
+border-width: px;
+background-color: mediumslateblue;
+}
