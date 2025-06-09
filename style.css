@@ -1,3 +1,10 @@
+body{
+    background-color: rgb(2, 2, 2);
+    text-align: center;
+}
+
+
+
 h1 {text-align: center;
 border-color: rgb(0, 0, 0);
 border-style: none;
@@ -7,25 +14,25 @@ background-color: rgb(106, 253, 1);
  
 h2 {text-align: center;
 border-color: blanchedalmond;
-border-style: initial;
+border-style: none;
 border-width: px;
-background-color: cornflowerblue;
+background-color: rgb(245, 185, 73);
 }
 
 h3 {text-align: center;
-border-color: rgb(230, 134, 134);
+border-color: rgb(231, 0, 0);
 border-style: none;
 border-width: px;
-background-color: darksalmon;
+background-color: rgb(231, 15, 15);
 }
 
 h4 {text-align: center;
-border-color: indigo;
+border-color: rgb(221, 236, 86);
 border-style: none;
 border-width: px;
-background-color: mediumslateblue;
+background-color: rgb(161, 73, 219);
 }
 
 h1, h2, h3, h4{
-    border: 10px solid rgb(37, 33, 33);
+    border: 30px solid rgb(241, 239, 239);
 }
